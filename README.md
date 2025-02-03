@@ -1,5 +1,5 @@
 # Multi-fidelity-Data-Fusion-for-In-elastic-Woven-Composites
-##Surrogate Deep Learning for Homogenization of Woven Composites
+  Surrogate Deep Learning for Homogenization of Woven Composites
 
 This repository contains the code and datasets for our research on surrogate deep learning models for homogenizing meso-scale woven composites. Our approach integrates transfer learning with gated recurrent neural networks (GRUs) to efficiently predict elasto-plastic mechanical behavior while reducing computational costs.
 
@@ -12,6 +12,8 @@ Results & Impact:
 Our framework enables accurate and efficient surrogate modeling of woven composites, significantly improving computational efficiency while preserving fidelity. The provided code allows for training, fine-tuning, and evaluating models under different loading scenarios.
 
 🔗 Usage Instructions & Installation: See docs/installation.md
-📄 Full Paper & Methodology: E. Ghane, M. Fagretrsöm, M. Mirkhalaf, ``Multi-fidelity Data Fusion for In-elastic Woven Composites: Combining Recurrent Neural Networks with Transfer Learning,'' (under review)  \textit{Composite Science and Technology}, 2024.
+
+📄 Full Paper & Methodology: 
+E. Ghane, M. Fagretrsöm, M. Mirkhalaf, ``Multi-fidelity Data Fusion for In-elastic Woven Composites: Combining Recurrent Neural Networks with Transfer Learning,'' (under review), 2024.
 
 Contributions and discussions are welcome! 🚀
