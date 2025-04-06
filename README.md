@@ -14,6 +14,6 @@ Our framework enables accurate and efficient surrogate modeling of woven composi
 🔗 Usage Instructions & Installation: See docs/installation.md
 
 📄 Full Paper & Methodology: 
-E. Ghane, M. Fagretrsöm, M. Mirkhalaf, ``Multi-fidelity Data Fusion for In-elastic Woven Composites: Combining Recurrent Neural Networks with Transfer Learning,'' (under review), 2024.
+https://www.sciencedirect.com/science/article/pii/S0266353825001319#fig1
 
 Contributions and discussions are welcome! 🚀
